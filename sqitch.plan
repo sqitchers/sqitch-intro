@@ -3,3 +3,4 @@
 %uri=https://github.com/theory/sqitch-intro/
 
 appschema 2013-12-30T23:19:45Z Marge N. O’Vera <marge@example.com> # Add schema for all flipr objects.
+users [appschema] 2013-12-30T23:49:00Z Marge N. O’Vera <marge@example.com> # Creates table to track our users.
