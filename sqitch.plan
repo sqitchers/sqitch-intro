@@ -7,3 +7,5 @@ users [appschema] 2013-12-30T23:49:00Z Marge N. O’Vera <marge@example.com> # C
 insert_user [users appschema] 2013-12-30T23:57:36Z Marge N. O’Vera <marge@example.com> # Creates a function to insert a user.
 change_pass [users appschema] 2013-12-30T23:57:45Z Marge N. O’Vera <marge@example.com> # Creates a function to change a user password.
 @v1.0.0-dev1 2013-12-31T00:01:22Z Marge N. O’Vera <marge@example.com> # Tag v1.0.0-dev1.
+
+lists [appschema users] 2013-12-31T00:39:40Z Marge N. O’Vera <marge@example.com> # Adds table for storing lists.
