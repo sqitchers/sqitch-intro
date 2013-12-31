@@ -17,3 +17,5 @@ delete_flip [flips appschema users] 2013-12-31T00:36:34Z Marge N. O’Vera <marg
 @v1.0.0-dev2 2013-12-31T00:55:06Z Marge N. O’Vera <marge@example.com> # Tag v1.0.0-dev2.
 
 pgcrypto 2013-12-31T00:57:24Z Marge N. O’Vera <marge@example.com> # Loads pgcrypto extension.
+insert_user [insert_user@v1.0.0-dev2 pgcrypto] 2013-12-31T01:00:10Z Marge N. O’Vera <marge@example.com># Change insert_user to use pgcrypto.
+change_pass [change_pass@v1.0.0-dev2 pgcrypto] 2013-12-31T01:02:35Z Marge N. O’Vera <marge@example.com># Change change_pass to use pgcrypto.
