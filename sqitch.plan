@@ -14,3 +14,4 @@ delete_list [lists appschema users] 2013-12-31T00:41:37Z Marge N. O’Vera <marg
 flips [appschema users] 2013-12-31T00:32:39Z Marge N. O’Vera <marge@example.com> # Adds table for storing flips.
 insert_flip [flips appschema users] 2013-12-31T00:35:59Z Marge N. O’Vera <marge@example.com> # Creates a function to insert a flip.
 delete_flip [flips appschema users] 2013-12-31T00:36:34Z Marge N. O’Vera <marge@example.com> # Creates a function to delete a flip.
+@v1.0.0-dev2 2013-12-31T00:55:06Z Marge N. O’Vera <marge@example.com> # Tag v1.0.0-dev2.
