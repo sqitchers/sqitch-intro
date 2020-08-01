@@ -2,10 +2,10 @@ Sqitch Intro v1.0.0-b6
 ======================
 
 A tutorial repository for [Sqitch](http://sqitch.org/). The actual tutorial is
-[`sqitchtutorial`](https://github.com/theory/sqitch/blob/master/lib/sqitchtutorial.pod);
-this respository is actually the example repository described in the tutorial.
-So you may want to look at the history here. Or clone this repository and run
-`sqitch` against various checkouts or just against the Git history.
+[`sqitchtutorial`](https://sqitch.org/docs/manual/sqitchtutorial/); this
+repository is actually the example repository described in the tutorial. So you
+may want to look at the history here. Or clone this repository and run `sqitch`
+against various checkouts or just against the Git history.
 
 
 Author
